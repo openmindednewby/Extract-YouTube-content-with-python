@@ -1,4 +1,4 @@
-# Extract-YouTube-content-with-python
+# Extract-YouTube-content-with-Python
 Simple script which extracts content from YouTube (video, audio, subtitles etc.) with python. The program makes underline use of youtube-dl. Tested on Ubuntu 19.04 and python 3.7.7
 
 ## Instructions
